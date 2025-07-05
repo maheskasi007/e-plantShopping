@@ -12,37 +12,37 @@ function ProductList({ onHomeClick }) {
       plants: [
         {
           name: "Snake Plant",
-          image: "shoppingreact/src/assets/snake-plant.jpg",
+          image: "e-plantShopping/src/assets/snake-plant.jpg",
           description: "Produces oxygen at night, improving air quality.",
           cost: "$15",
         },
         {
           name: "Spider Plant",
-          image: "shoppingreact/src/assets/chlorophytum.jpg",
+          image: "e-plantShopping/src/assets/chlorophytum.jpg",
           description: "Filters formaldehyde and xylene from the air.",
           cost: "$12",
         },
         {
           name: "Peace Lily",
-          image: "shoppingreact/src/assets/peace-lilies.jpg",
+          image: "e-plantShopping/src/assets/peace-lilies.jpg",
           description: "Removes mold spores and purifies the air.",
           cost: "$18",
         },
         {
           name: "Boston Fern",
-          image: "shoppingreact/src/assets/boston-fem.jpg",
+          image: "e-plantShopping/src/assets/boston-fem.jpg",
           description: "Adds humidity to the air and removes toxins.",
           cost: "$20",
         },
         {
           name: "Rubber Plant",
-          image: "shoppingreact/src/assets/rubber-plant.jpg",
+          image: "e-plantShopping/src/assets/rubber-plant.jpg",
           description: "Easy to care for and effective at removing toxins.",
           cost: "$17",
         },
         {
           name: "Aloe Vera",
-          image: "shoppingreact/src/assets/aloe-vera.jpg",
+          image: "e-plantShopping/src/assets/aloe-vera.jpg",
           description: "Purifies the air and has healing properties for skin.",
           cost: "$14",
         },
@@ -53,37 +53,37 @@ function ProductList({ onHomeClick }) {
       plants: [
         {
           name: "Lavender",
-          image: "shoppingreact/src/assets/lavender.jpg",
+          image: "e-plantShopping/src/assets/lavender.jpg",
           description: "Calming scent, used in aromatherapy.",
           cost: "$20",
         },
         {
           name: "Jasmine",
-          image: "shoppingreact/src/assets/jasmine.jpg",
+          image: "e-plantShopping/src/assets/jasmine.jpg",
           description: "Sweet fragrance, promotes relaxation.",
           cost: "$18",
         },
         {
           name: "Rosemary",
-          image: "shoppingreact/src/assets/rosemary.jpg",
+          image: "e-plantShopping/src/assets/rosemary.jpg",
           description: "Invigorating scent, often used in cooking.",
           cost: "$15",
         },
         {
           name: "Mint",
-          image: "shoppingreact/src/assets/mint.jpg",
+          image: "e-plantShopping/src/assets/mint.jpg",
           description: "Refreshing aroma, used in teas and cooking.",
           cost: "$12",
         },
         {
           name: "Lemon Balm",
-          image: "shoppingreact/src/assets/balm.jpg",
+          image: "e-plantShopping/src/assets/balm.jpg",
           description: "Citrusy scent, relieves stress and promotes sleep.",
           cost: "$14",
         },
         {
           name: "Hyacinth",
-          image: "shoppingreact/src/assets/hyacinth.jpg",
+          image: "e-plantShopping/src/assets/hyacinth.jpg",
           description:
             "Hyacinth is a beautiful flowering plant known for its fragrant.",
           cost: "$22",
@@ -95,40 +95,40 @@ function ProductList({ onHomeClick }) {
       plants: [
         {
           name: "oregano",
-          image: "shoppingreact/src/assets/oregano.jpg",
+          image: "e-plantShopping/src/assets/oregano.jpg",
           description:
             "The oregano plants contains compounds that can deter certain insects.",
           cost: "$10",
         },
         {
           name: "Marigold",
-          image: "shoppingreact/src/assets/marigold.jpg",
+          image: "e-plantShopping/src/assets/marigold.jpg",
           description:
             "Natural insect repellent, also adds color to the garden.",
           cost: "$8",
         },
         {
           name: "Geraniums",
-          image: "shoppingreact/src/assets/geraniums.jpg",
+          image: "e-plantShopping/src/assets/geraniums.jpg",
           description:
             "Known for their insect-repelling properties while adding a pleasant scent.",
           cost: "$20",
         },
         {
           name: "Basil",
-          image: "shoppingreact/src/assets/tulsi.jpg",
+          image: "e-plantShopping/src/assets/tulsi.jpg",
           description: "Repels flies and mosquitoes, also used in cooking.",
           cost: "$9",
         },
         {
           name: "Lavender",
-          image: "shoppingreact/src/assets/lavender.jpg",
+          image: "e-plantShopping/src/assets/lavender.jpg",
           description: "Calming scent, used in aromatherapy.",
           cost: "$20",
         },
         {
           name: "Catnip",
-          image: "shoppingreact/src/assets/catnip.jpg",
+          image: "e-plantShopping/src/assets/catnip.jpg",
           description: "Repels mosquitoes and attracts cats.",
           cost: "$13",
         },
@@ -139,37 +139,37 @@ function ProductList({ onHomeClick }) {
       plants: [
         {
           name: "Aloe Vera",
-          image: "shoppingreact/src/assets/aloe-vera.jpg",
+          image: "e-plantShopping/src/assets/aloe-vera.jpg",
           description: "Soothing gel used for skin ailments.",
           cost: "$14",
         },
         {
           name: "Echinacea",
-          image: "shoppingreact/src/assets/echinacea.jpg",
+          image: "e-plantShopping/src/assets/echinacea.jpg",
           description: "Boosts immune system, helps fight colds.",
           cost: "$16",
         },
         {
           name: "Peppermint",
-          image: "shoppingreact/src/assets/peppermint.jpg",
+          image: "e-plantShopping/src/assets/peppermint.jpg",
           description: "Relieves digestive issues and headaches.",
           cost: "$13",
         },
         {
           name: "Lemon Balm",
-          image: "shoppingreact/src/assets/balm.jpg",
+          image: "e-plantShopping/src/assets/balm.jpg",
           description: "Calms nerves and promotes relaxation.",
           cost: "$14",
         },
         {
           name: "Chamomile",
-          image: "shoppingreact/src/assets/chamomile.jpg",
+          image: "e-plantShopping/src/assets/chamomile.jpg",
           description: "Soothes anxiety and promotes sleep.",
           cost: "$15",
         },
         {
           name: "Calendula",
-          image: "shoppingreact/src/assets/calendula.jpg",
+          image: "e-plantShopping/src/assets/calendula.jpg",
           description: "Heals wounds and soothes skin irritations.",
           cost: "$12",
         },
@@ -180,38 +180,38 @@ function ProductList({ onHomeClick }) {
       plants: [
         {
           name: "ZZ Plant",
-          image: "shoppingreact/src/assets/zz-plant.jpg",
+          image: "e-plantShopping/src/assets/zz-plant.jpg",
           description: "Thrives in low light and requires minimal watering.",
           cost: "$25",
         },
         {
           name: "Pothos",
-          image: "shoppingreact/src/assets/pothos.jpg",
+          image: "e-plantShopping/src/assets/pothos.jpg",
           description: "Tolerates neglect and can grow in various conditions.",
           cost: "$10",
         },
         {
           name: "Snake Plant",
-          image: "shoppingreact/src/assets/snake-plant.jpg",
+          image: "e-plantShopping/src/assets/snake-plant.jpg",
           description:
             "Needs infrequent watering and is resilient to most pests.",
           cost: "$15",
         },
         {
           name: "Cast Iron Plant",
-          image: "shoppingreact/src/assets/cast-iron-plant.jpg",
+          image: "e-plantShopping/src/assets/cast-iron-plant.jpg",
           description: "Hardy plant that tolerates low light and neglect.",
           cost: "$20",
         },
         {
           name: "Succulents",
-          image: "shoppingreact/src/assets/cacti.jpg",
+          image: "e-plantShopping/src/assets/cacti.jpg",
           description: "Drought-tolerant plants with unique shapes and colors.",
           cost: "$18",
         },
         {
           name: "Aglaonema",
-          image: "shoppingreact/src/assets/aglaonema.jpg",
+          image: "e-plantShopping/src/assets/aglaonema.jpg",
           description: "Requires minimal care and adds color to indoor spaces.",
           cost: "$22",
         },
